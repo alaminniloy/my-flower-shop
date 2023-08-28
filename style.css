@@ -15,7 +15,7 @@
 /* Text part */
 .banner-article {
   text-align: left;
-  padding: ;
+  margin-top: 80px;
 }
 .banner-heading {
   color: #272727;
@@ -29,7 +29,7 @@
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
-  width: 634px;
+  width: 600px;
   margin-bottom: 32px;
 }
 .btn-primary {
@@ -40,4 +40,25 @@
   font-size: 20px;
   font-weight: 700;
   padding: 20px 43px;
+}
+/* Flower Featured Part */
+.header-featured {
+  text-align: center;
+  margin-top: 100px;
+  background: #fff;
+}
+#featured-heading {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+ 
+}
+#featured-text {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 30px;
+ 
+
 }
