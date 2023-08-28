@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.banner-container{
+  background-color:rgba(229, 84, 115, 0.10);
+  display: flex;
+  justify-content:space-around;
+  padding: 0 100px;
+}
+.banner-article{
+  text-align: left;
+  padding: ;
+}
